@@ -1,2 +1,2 @@
-# The-Interesting-Company
-Learn a bit about The Interesting Company.
+# Awia
+Learn a bit about Awia Co.
